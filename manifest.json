@@ -1,0 +1,9 @@
+{
+  "name": "PMCS Radio y Televisión",
+  "short_name": "PMCS",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [{"src": "logo.png","sizes": "512x512","type": "image/png"}]
+}
